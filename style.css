@@ -1,11 +1,11 @@
 @font-face {
     font-family: Font1;
-    src: url(/kesslersuperdisplayweb-regular.ttf);
+    src: url(kesslersuperdisplayweb-regular.ttf);
 }
 
 @font-face {
     font-family: Font2;
-    src: url(/FraktionMono-Regular.ttf);
+    src: url(FraktionMono-Regular.ttf);
 }
 
 *{
